@@ -10,21 +10,28 @@
 
 <p align="center">
   AI • Cybersecurity • IoT • Blockchain • Emerging Technologies
-  ## 🛠️ Tech Stack
+</p>
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+<h2 align="center">⚡ Technologies & Tools</h2>
 
-### Areas of Interest
-`Artificial Intelligence` • `Cybersecurity` • `IoT` • `Blockchain`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,git,github,linux,arduino,raspberrypi,mysql,androidstudio&perline=6" />
+</div>
+
+<br>
+
+<h3 align="center">🎯 Areas of Interest</h3>
+
+<p align="center">
+  Artificial Intelligence • Cybersecurity • Internet of Things • Blockchain
+</p>
+
+<br>
+
+<h3 align="center">📚 Currently Exploring</h3>
+
+<p align="center">
+  Intelligent Systems • Network Security • IoT Architecture • Blockchain Technology
 </p>

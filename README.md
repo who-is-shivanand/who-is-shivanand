@@ -1,135 +1,61 @@
-<!-- Animated Header -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shivanand&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</p>
-
-<!-- Anime GIF -->
-
-<p align="center">
-  <img src="./emilia-ram.gif" width="500">
-</p>
-
-<!-- Introduction -->
-
-<h1 align="center">Hey, I'm Shivanand 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=CSE+(IoT+%26+CSBT)+Student;AI+%7C+Cybersecurity+%7C+IoT+%7C+Blockchain;Exploring+Technology+%7C+Building+Projects;Always+Learning+Something+New" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=WHO%20AM%20I%3F&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <b>Curiosity drives the exploration. Code turns ideas into reality.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Initializing+Shivanand...;CSE+(IoT+%26+CSBT)+Student;Exploring+Artificial+Intelligence;Studying+Cybersecurity;Building+with+IoT;Exploring+Blockchain;System+Status%3A+Always+Learning..." />
 </p>
 
 <br>
 
-<!-- About Me -->
-
-<h2 align="center">🌐 About Me</h2>
-
 <p align="center">
-  I'm Shivanand, a CSE (IoT & CSBT) student with a strong interest in
-  <b>Artificial Intelligence</b>, <b>Cybersecurity</b>,
-  <b>Internet of Things</b>, and <b>Blockchain</b>.
-  <br><br>
-  I enjoy exploring emerging technologies, solving technical problems,
-  and transforming ideas into practical digital solutions.
+  <img src="./emilia-ram.gif" width="520">
 </p>
 
 <br>
 
-<!-- Tech Stack -->
-
-<h2 align="center">⚡ Technologies & Tools</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,git,github,linux,arduino,raspberrypi,mysql,androidstudio&perline=6" />
-
-</div>
-
-<br>
-
-<!-- Interests -->
-
-<h2 align="center">🎯 Areas of Interest</h2>
+<h1 align="center">I'm Shivanand 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT-0A84FF?style=for-the-badge&logo=internetofthings&logoColor=white">
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white">
+  <img src="https://img.shields.io/badge/CSE%20(IoT%20%26%20CSBT)-Student-0EA5E9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Exploring%20%26%20Building-22C55E?style=for-the-badge">
 </p>
-
-<br>
-
-<!-- Currently Learning -->
-
-<h2 align="center">📚 Currently Exploring</h2>
-
-<p align="center">
-  <code>Intelligent Systems</code>
-  <code>Network Security</code>
-  <code>IoT Architecture</code>
-  <code>Blockchain Technology</code>
-</p>
-
-<br>
-
-<!-- Developer Philosophy -->
-
-<h2 align="center">💡 Developer Philosophy</h2>
-
-<p align="center">
-  <i>
-    "Learn deeply. Build fearlessly. Improve continuously."
-  </i>
-</p>
-
-<br>
-
-<!-- GitHub Stats -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=who-is-shivanand&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=who-is-shivanand&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
-
-<br>
-
-<!-- Streak -->
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=who-is-shivanand&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-<!-- Profile Views -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=who-is-shivanand&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
-</p>
-
-<br>
-
-<!-- Closing -->
-
-<h2 align="center">🚀 Building • Learning • Evolving</h2>
 
 <p align="center">
   <b>AI × Cybersecurity × IoT × Blockchain</b>
 </p>
 
+<p align="center">
+  <i>Curiosity drives the exploration. Code turns ideas into reality.</i>
+</p>
+
 <br>
 
-<!-- Footer -->
+<h2 align="center">🧬 WHO AM I?</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  I'm Shivanand, a CSE (IoT & CSBT) student fascinated by the
+  intersection of intelligent systems, cybersecurity, connected
+  technologies, and decentralized architectures.
 </p>
+
+<p align="center">
+  I'm currently focused on strengthening my technical foundations,
+  experimenting with emerging technologies, and transforming
+  ideas into practical projects.
+</p>
+
+<br>
+
+<h2 align="center">💻 SYSTEM.INFO</h2>
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                    SHIVANAND.EXE                     │
+├──────────────────────────────────────────────────────┤
+│ Role        : CSE (IoT & CSBT) Student              │
+│ Focus       : AI / Cybersecurity / IoT / Blockchain │
+│ Mindset     : Learn → Build → Break → Improve       │
+│ Status      : ONLINE                                │
+│ Curiosity   : UNLIMITED                             │
+└──────────────────────────────────────────────────────┘

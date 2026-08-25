@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Initializing+Shivanand...;CSE+(IoT+%26+CSBT)+Student;Exploring+Artificial+Intelligence;Studying+Cybersecurity;Building+with+IoT;Exploring+Blockchain;System+Status%3A+Always+Learning..." />
 </p>
 
-<p align="center">
-  <b>IDENTITY // SHIVANAND</b>
-  <br>
-  <sub>CSE // IoT // CSBT</sub>
-</p>
 
 <p align="center">
   <img src="./emilia-ram.gif" width="520" />

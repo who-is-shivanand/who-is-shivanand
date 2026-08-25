@@ -1,10 +1,24 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     CINEMATIC INTRO                        -->
+<!--                    CINEMATIC WHO AM I                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:111827,65:1E3A8A,100:7F1D1D&height=220&section=header&text=WHO%20AM%20I%3F&fontSize=52&fontColor=FFFFFF&fontAlignY=48&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:111827,55:1E3A8A,80:7F1D1D,100:050505&height=230&section=header&text=WHO%20AM%20I%3F&fontSize=54&fontColor=FFFFFF&fontAlignY=48&animation=twinkling" width="100%" />
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TERMINAL INTRO                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Initializing+Shivanand...;CSE+(IoT+%26+CSBT)+Student;Exploring+Artificial+Intelligence;Studying+Cybersecurity;Building+with+IoT;Exploring+Blockchain;System+Status%3A+Always+Learning..." />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         IDENTITY                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <b>IDENTITY // SHIVANAND</b>
@@ -15,7 +29,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ANIME VISUAL                         -->
+<!--                         ANIME GIF                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -25,7 +39,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         INTRO                              -->
+<!--                           INTRO                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h1 align="center">I'm Shivanand 👋</h1>
@@ -77,7 +91,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     INTERESTS                              -->
+<!--                       INTERESTS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🎯 AREAS OF INTEREST</h2>
@@ -110,7 +124,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      LEARNING LOOP                         -->
+<!--                       LEARNING LOOP                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🧠 LEARNING LOOP</h2>
@@ -179,7 +193,7 @@ Exploring decentralized architectures, distributed systems, and blockchain techn
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     CURRENT MISSION                        -->
+<!--                       CURRENT MISSION                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🎯 CURRENT MISSION</h2>
@@ -203,7 +217,7 @@ Exploring decentralized architectures, distributed systems, and blockchain techn
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         CONNECT                            -->
+<!--                         CONNECT                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
@@ -223,9 +237,13 @@ Exploring decentralized architectures, distributed systems, and blockchain techn
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FINAL TRANSMISSION                      -->
+<!--                    FINAL TRANSMISSION                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,35:1E3A8A,70:111827,100:050505&height=220&section=footer&text=END%20OF%20TRANSMISSION.&fontSize=40&fontColor=FFFFFF&fontAlignY=52&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:3B0A0A,45:991B1B,70:DC2626,85:450A0A,100:050505&height=230&section=footer&text=END%20OF%20TRANSMISSION.&fontSize=40&fontColor=FFFFFF&fontAlignY=52&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=F43F5E&center=true&vCenter=true&repeat=true&width=650&height=45&lines=SIGNAL%3A+TERMINATED;CONNECTION%3A+CLOSED;UNTIL+THE+NEXT+COMMIT..." />
 </p>

@@ -1,24 +1,10 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CINEMATIC WHO AM I                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:111827,55:1E3A8A,80:7F1D1D,100:050505&height=230&section=header&text=WHO%20AM%20I%3F&fontSize=54&fontColor=FFFFFF&fontAlignY=48&animation=twinkling" width="100%" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TERMINAL INTRO                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Initializing+Shivanand...;CSE+(IoT+%26+CSBT)+Student;Exploring+Artificial+Intelligence;Studying+Cybersecurity;Building+with+IoT;Exploring+Blockchain;System+Status%3A+Always+Learning..." />
 </p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         IDENTITY                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <b>IDENTITY // SHIVANAND</b>
@@ -26,21 +12,9 @@
   <sub>CSE // IoT // CSBT</sub>
 </p>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         ANIME GIF                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img src="./emilia-ram.gif" width="520" />
 </p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                           INTRO                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h1 align="center">I'm Shivanand 👋</h1>
 
@@ -57,30 +31,12 @@
   <i>Curiosity drives the exploration. Code turns ideas into reality.</i>
 </p>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         WHO AM I                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧬 WHO AM I?</h2>
-
-<p align="center">
-  I'm Shivanand, a CSE (IoT & CSBT) student fascinated by the
-  intersection of intelligent systems, cybersecurity, connected
-  technologies, and decentralized architectures.
-</p>
-
 <p align="center">
   I enjoy exploring emerging technologies, solving technical challenges,
   and transforming ideas into practical digital solutions.
 </p>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECHNOLOGIES                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">⚡ TECHNOLOGIES & TOOLS</h2>
 
@@ -89,10 +45,6 @@
 </p>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       INTERESTS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🎯 AREAS OF INTEREST</h2>
 
@@ -104,10 +56,6 @@
 </p>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CURRENTLY EXPLORING                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🔭 CURRENTLY EXPLORING</h2>
 
@@ -123,10 +71,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       LEARNING LOOP                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <h2 align="center">🧠 LEARNING LOOP</h2>
 
 <p align="center">
@@ -138,10 +82,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <h2 align="center">🚀 PROJECTS</h2>
 
 <p align="center">
@@ -149,52 +89,29 @@
 </p>
 
 <table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🔐 Cybersecurity</h3>
-
-Exploring network security, ethical hacking, security concepts, and defensive technologies.
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🤖 Artificial Intelligence</h3>
-
-Exploring intelligent systems, automation, machine learning, and practical AI applications.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🌐 Internet of Things</h3>
-
-Experimenting with connected devices, sensors, embedded systems, and intelligent automation.
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>⛓️ Blockchain</h3>
-
-Exploring decentralized architectures, distributed systems, and blockchain technology.
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔐 Cybersecurity</h3>
+      Exploring network security, ethical hacking, security concepts, and defensive technologies.
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 Artificial Intelligence</h3>
+      Exploring intelligent systems, automation, machine learning, and practical AI applications.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌐 Internet of Things</h3>
+      Experimenting with connected devices, sensors, embedded systems, and intelligent automation.
+    </td>
+    <td width="50%" align="center">
+      <h3>⛓️ Blockchain</h3>
+      Exploring decentralized architectures, distributed systems, and blockchain technology.
+    </td>
+  </tr>
 </table>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       CURRENT MISSION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🎯 CURRENT MISSION</h2>
 
@@ -204,22 +121,6 @@ Exploring decentralized architectures, distributed systems, and blockchain techn
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   DEVELOPER PHILOSOPHY                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💡 DEVELOPER PHILOSOPHY</h2>
-
-<p align="center">
-  <i>"Learn deeply. Build fearlessly. Improve continuously."</i>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         CONNECT                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <p align="center">
@@ -228,17 +129,11 @@ Exploring decentralized architectures, distributed systems, and blockchain techn
   </a>
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=who-is-shivanand&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" />
 </p>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FINAL TRANSMISSION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:3B0A0A,45:991B1B,70:DC2626,85:450A0A,100:050505&height=230&section=footer&text=END%20OF%20TRANSMISSION.&fontSize=40&fontColor=FFFFFF&fontAlignY=52&animation=twinkling" width="100%" />

@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="./emilia-ram.gif" width="100%">
+  <img src="./spiderman-intro.gif" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1800&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=70&lines=WHO+AM+I%3F;INITIALIZING+SHIVANAND...;SYSTEM+ONLINE.;IDENTITY%3A+SHIVANAND;WELCOME+TO+MY+PROFILE." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2600&pause=1000&color=E5E7EB&center=true&vCenter=true&repeat=true&width=850&height=80&lines=WHO+AM+I%3F;SHIVANAND.;IDENTITY+CONFIRMED." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&repeat=true&width=850&height=55&lines=CSE+(IoT+%26+CSBT)+Student;Exploring+Artificial+Intelligence;Studying+Cybersecurity;Building+with+IoT;Exploring+Blockchain;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=55&lines=CSE+(IoT+%26+CSBT)+Student;AI+%7C+Cybersecurity+%7C+IoT+%7C+Blockchain;Exploring.+Building.+Evolving." />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./emilia-ram.gif" width="520">
 </p>
 
 <br>
@@ -187,9 +193,5 @@ Exploring decentralized architectures, distributed systems, and blockchain techn
 <br>
 
 <p align="center">
-  <img src="./emilia-ram.gif" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=900&color=F43F5E&center=true&vCenter=true&repeat=true&width=800&height=55&lines=END+OF+TRANSMISSION.;SYSTEM+STILL+RUNNING.;SEE+YOU+IN+THE+NEXT+COMMIT." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1200&color=F43F5E&center=true&vCenter=true&repeat=true&width=850&height=60&lines=END+OF+TRANSMISSION.;SYSTEM+STILL+RUNNING.;SEE+YOU+IN+THE+NEXT+COMMIT." />
 </p>

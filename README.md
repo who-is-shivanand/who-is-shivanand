@@ -1,30 +1,35 @@
-<!-- ============================== -->
-<!--          RGB HEADER            -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                       RGB HEADER                          -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,15:001F3F,30:00BFFF,45:4F46E5,60:A855F7,75:EC4899,90:7C3AED,100:020617&height=230&section=header&text=WHO%20AM%20I%3F&fontSize=54&fontColor=FFFFFF&fontAlignY=48&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,12:001F3F,25:00BFFF,40:4F46E5,55:A855F7,70:EC4899,85:7C3AED,100:020617&height=230&section=header&text=WHO%20AM%20I%3F&fontSize=54&fontColor=FFFFFF&fontAlignY=48&animation=twinkling"
     width="100%"
     alt="WHO AM I?"
   />
 </p>
 
-<!-- ============================== -->
-<!--       RGB INTRODUCTION         -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                    ANIMATED INTRO                         -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="./intro.svg"
-    width="850"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Initializing+Shivanand...;CSE+(IoT+%26+CSBT)+Student;Exploring+Artificial+Intelligence;Studying+Cybersecurity;Building+with+IoT;Exploring+Blockchain;System+Status%3A+Always+Learning..."
     alt="Animated introduction"
   />
 </p>
 
-<!-- ============================== -->
-<!--            ANIME                -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                         ANIME GIF                         -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img
@@ -36,9 +41,11 @@
 
 <br>
 
-<!-- ============================== -->
-<!--             ABOUT              -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                           ABOUT                           -->
+
+<!-- ========================================================= -->
 
 <h1 align="center">I'm Shivanand 👋</h1>
 
@@ -49,7 +56,7 @@
   />
   <img
     src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-22C55E?style=for-the-badge"
-    alt="Status Learning and Building"
+    alt="Learning and Building"
   />
 </p>
 
@@ -68,9 +75,11 @@
 
 <br>
 
-<!-- ============================== -->
-<!--      TECHNOLOGIES & TOOLS      -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                    TECHNOLOGIES & TOOLS                   -->
+
+<!-- ========================================================= -->
 
 <h2 align="center">⚡ TECHNOLOGIES &amp; TOOLS</h2>
 
@@ -83,41 +92,45 @@
 
 <br>
 
-<!-- ============================== -->
-<!--       AREAS OF INTEREST        -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                     AREAS OF INTEREST                     -->
+
+<!-- ========================================================= -->
 
 <h2 align="center">🎯 AREAS OF INTEREST</h2>
 
 <p align="center">
 
-  <img
-    src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=00E5FF"
-    alt="Artificial Intelligence"
-  />
+<img
+ src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=00E5FF"
+ alt="Artificial Intelligence"
+/>
 
-  <img
-    src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"
-    alt="Cybersecurity"
-  />
+<img
+ src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"
+ alt="Cybersecurity"
+/>
 
-  <img
-    src="https://img.shields.io/badge/IoT-0F172A?style=for-the-badge&logo=internetofthings&logoColor=00E5FF"
-    alt="IoT"
-  />
+<img
+ src="https://img.shields.io/badge/IoT-0F172A?style=for-the-badge&logo=internetofthings&logoColor=00E5FF"
+ alt="Internet of Things"
+/>
 
-  <img
-    src="https://img.shields.io/badge/Blockchain-0F172A?style=for-the-badge&logo=blockchaindotcom&logoColor=F59E0B"
-    alt="Blockchain"
-  />
+<img
+ src="https://img.shields.io/badge/Blockchain-0F172A?style=for-the-badge&logo=blockchaindotcom&logoColor=F59E0B"
+ alt="Blockchain"
+/>
 
 </p>
 
 <br>
 
-<!-- ============================== -->
-<!--      CURRENTLY EXPLORING       -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                    CURRENTLY EXPLORING                    -->
+
+<!-- ========================================================= -->
 
 <h2 align="center">🔭 CURRENTLY EXPLORING</h2>
 
@@ -133,41 +146,45 @@
 
 <br>
 
-<!-- ============================== -->
-<!--         LEARNING LOOP          -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                       LEARNING LOOP                       -->
+
+<!-- ========================================================= -->
 
 <h2 align="center">🧠 LEARNING LOOP</h2>
 
 <p align="center">
 
-  <img
-    src="https://img.shields.io/badge/01%20LEARN-0F172A?style=for-the-badge&logo=bookstack&logoColor=38BDF8"
-    alt="Learn"
-  />
+<img
+ src="https://img.shields.io/badge/01%20LEARN-0F172A?style=for-the-badge&logo=bookstack&logoColor=38BDF8"
+ alt="Learn"
+/>
 
-  <img
-    src="https://img.shields.io/badge/02%20EXPERIMENT-0F172A?style=for-the-badge&logo=flask&logoColor=22C55E"
-    alt="Experiment"
-  />
+<img
+ src="https://img.shields.io/badge/02%20EXPERIMENT-0F172A?style=for-the-badge&logo=flask&logoColor=22C55E"
+ alt="Experiment"
+/>
 
-  <img
-    src="https://img.shields.io/badge/03%20BUILD-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="Build"
-  />
+<img
+ src="https://img.shields.io/badge/03%20BUILD-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"
+ alt="Build"
+/>
 
-  <img
-    src="https://img.shields.io/badge/04%20IMPROVE-0F172A?style=for-the-badge&logo=rocket&logoColor=F59E0B"
-    alt="Improve"
-  />
+<img
+ src="https://img.shields.io/badge/04%20IMPROVE-0F172A?style=for-the-badge&logo=rocket&logoColor=F59E0B"
+ alt="Improve"
+/>
 
 </p>
 
 <br>
 
-<!-- ============================== -->
-<!--            PROJECTS            -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                          PROJECTS                         -->
+
+<!-- ========================================================= -->
 
 <h2 align="center">🚀 PROJECTS</h2>
 
@@ -175,34 +192,38 @@
   <em>Turning concepts into working systems.</em>
 </p>
 
-| 🔐 Cybersecurity | 🤖 Artificial Intelligence |
-|:---:|:---:|
+|                                       🔐 Cybersecurity                                      |                                  🤖 Artificial Intelligence                                 |
+| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 | Exploring network security, ethical hacking, security concepts, and defensive technologies. | Exploring intelligent systems, automation, machine learning, and practical AI applications. |
 
-| 🌐 Internet of Things | ⛓️ Blockchain |
-|:---:|:---:|
+|                                     🌐 Internet of Things                                    |                                      ⛓️ Blockchain                                     |
+| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
 | Experimenting with connected devices, sensors, embedded systems, and intelligent automation. | Exploring decentralized architectures, distributed systems, and blockchain technology. |
 
 <br>
 
-<!-- ============================== -->
-<!--        CURRENT MISSION         -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                      CURRENT MISSION                      -->
+
+<!-- ========================================================= -->
 
 <h2 align="center">🎯 CURRENT MISSION</h2>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Strengthening+my+technical+foundations;Building+real-world+projects;Exploring+cybersecurity;Learning+AI+and+IoT;Understanding+emerging+technologies;Turning+ideas+into+systems"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Strengthening+my+technical+foundations;Building+real-world+projects;Exploring+cybersecurity;Learning+AI+and+IoT;Understanding+emerging+technologies;Turning+ideas+into+systems"
     alt="Current mission"
   />
 </p>
 
 <br>
 
-<!-- ============================== -->
-<!--        CONNECT WITH ME         -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                       CONNECT WITH ME                     -->
+
+<!-- ========================================================= -->
 
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
@@ -215,9 +236,13 @@
   </a>
 </p>
 
-<!-- ============================== -->
-<!--         PROFILE VIEWS         -->
-<!-- ============================== -->
+<br>
+
+<!-- ========================================================= -->
+
+<!--                       PROFILE VIEWS                       -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img
@@ -228,9 +253,11 @@
 
 <br>
 
-<!-- ============================== -->
-<!--          RGB FOOTER            -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                       RGB FOOTER                          -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img
@@ -240,13 +267,15 @@
   />
 </p>
 
-<!-- ============================== -->
-<!--          FINAL SIGNAL           -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+
+<!--                       FINAL SIGNAL                        -->
+
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=F43F5E&center=true&vCenter=true&repeat=true&width=650&height=45&lines=SIGNAL%3A+TERMINATED;CONNECTION%3A+CLOSED;UNTIL+THE+NEXT+COMMIT..."
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=F43F5E&center=true&vCenter=true&repeat=true&width=700&height=45&lines=SIGNAL%3A+TERMINATED;CONNECTION%3A+CLOSED;UNTIL+THE+NEXT+COMMIT..."
     alt="Final signal"
   />
 </p>

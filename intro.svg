@@ -1,98 +1,87 @@
 <svg
+  xmlns="http://www.w3.org/2000/svg"
   width="850"
   height="90"
-  viewBox="0 0 850 90"
-  xmlns="http://www.w3.org/2000/svg">
+  viewBox="0 0 850 90">
 
   <defs>
 
-    <!-- ================================================= -->
-    <!--                 RGB GRADIENT                      -->
-    <!-- ================================================= -->
+    <!-- ============================================== -->
+    <!--                  RGB GRADIENT                 -->
+    <!-- ============================================== -->
 
     <linearGradient
-      id="rgb"
+      id="rgbGradient"
       x1="0%"
       y1="0%"
       x2="100%"
       y2="0%">
 
-      <stop offset="0%" stop-color="#00E5FF">
+      <stop
+        offset="0%"
+        stop-color="#00E5FF">
 
         <animate
           attributeName="stop-color"
           values="#00E5FF;#0066FF;#7C3AED;#EC4899;#FF1744;#FFEA00;#00FF88;#00E5FF"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+          dur="8s"
+          repeatCount="indefinite"/>
 
       </stop>
 
-
-      <stop offset="50%" stop-color="#A855F7">
+      <stop
+        offset="50%"
+        stop-color="#A855F7">
 
         <animate
           attributeName="stop-color"
           values="#A855F7;#EC4899;#FF1744;#FFEA00;#00FF88;#00E5FF;#0066FF;#A855F7"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+          dur="8s"
+          repeatCount="indefinite"/>
 
       </stop>
 
-
-      <stop offset="100%" stop-color="#FF1744">
+      <stop
+        offset="100%"
+        stop-color="#FF1744">
 
         <animate
           attributeName="stop-color"
           values="#FF1744;#FFEA00;#00FF88;#00E5FF;#0066FF;#7C3AED;#EC4899;#FF1744"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+          dur="8s"
+          repeatCount="indefinite"/>
 
       </stop>
 
     </linearGradient>
 
 
-    <!-- ================================================= -->
-    <!--                    NEON GLOW                      -->
-    <!-- ================================================= -->
+    <!-- ============================================== -->
+    <!--                    SOFT GLOW                   -->
+    <!-- ============================================== -->
 
     <filter
-      id="neon"
+      id="softGlow"
       x="-50%"
       y="-100%"
       width="200%"
       height="300%">
 
       <feGaussianBlur
-        stdDeviation="5"
-        result="blur1"
-      />
-
-      <feGaussianBlur
-        in="SourceGraphic"
-        stdDeviation="2"
-        result="blur2"
-      />
+        stdDeviation="4"
+        result="blur"/>
 
       <feMerge>
-
-        <feMergeNode in="blur1"/>
-
-        <feMergeNode in="blur2"/>
-
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
-
       </feMerge>
 
     </filter>
 
 
-    <!-- ================================================= -->
-    <!--                 STRONG RGB GLOW                  -->
-    <!-- ================================================= -->
+    <!-- ============================================== -->
+    <!--                   STRONG GLOW                  -->
+    <!-- ============================================== -->
 
     <filter
       id="strongGlow"
@@ -103,23 +92,48 @@
 
       <feGaussianBlur
         stdDeviation="9"
-        result="blur"
-      />
+        result="blur"/>
 
       <feMerge>
-
         <feMergeNode in="blur"/>
-
         <feMergeNode in="SourceGraphic"/>
-
       </feMerge>
 
     </filter>
 
 
-    <!-- ================================================= -->
-    <!--                    SHINE                          -->
-    <!-- ================================================= -->
+    <!-- ============================================== -->
+    <!--                 GLASS BACKGROUND               -->
+    <!-- ============================================== -->
+
+    <linearGradient
+      id="glass"
+      x1="0%"
+      y1="0%"
+      x2="100%"
+      y2="0%">
+
+      <stop
+        offset="0%"
+        stop-color="#020617"
+        stop-opacity="0.75"/>
+
+      <stop
+        offset="50%"
+        stop-color="#0F172A"
+        stop-opacity="0.55"/>
+
+      <stop
+        offset="100%"
+        stop-color="#020617"
+        stop-opacity="0.75"/>
+
+    </linearGradient>
+
+
+    <!-- ============================================== -->
+    <!--                  LIGHT SHINE                   -->
+    <!-- ============================================== -->
 
     <linearGradient
       id="shine"
@@ -130,141 +144,316 @@
 
       <stop
         offset="0%"
-        stop-color="white"
-        stop-opacity="0"
-      />
+        stop-color="#FFFFFF"
+        stop-opacity="0"/>
 
       <stop
         offset="50%"
-        stop-color="white"
-        stop-opacity="0.8"
-      />
+        stop-color="#FFFFFF"
+        stop-opacity="0.8"/>
 
       <stop
         offset="100%"
-        stop-color="white"
-        stop-opacity="0"
-      />
+        stop-color="#FFFFFF"
+        stop-opacity="0"/>
 
     </linearGradient>
 
   </defs>
 
 
-  <!-- ================================================= -->
-  <!--                  SUBTLE BACKGROUND                -->
-  <!-- ================================================= -->
+  <!-- ============================================== -->
+  <!--                 BACKGROUND PANEL               -->
+  <!-- ============================================== -->
 
   <rect
-    x="20"
-    y="10"
-    width="810"
-    height="65"
+    x="10"
+    y="8"
+    width="830"
+    height="74"
     rx="18"
-    fill="#020617"
-    opacity="0.35"
-  />
+    fill="url(#glass)"/>
 
 
-  <!-- ================================================= -->
-  <!--                  OUTER RGB GLOW                   -->
-  <!-- ================================================= -->
+  <!-- ============================================== -->
+  <!--               INITIALIZING                     -->
+  <!-- ============================================== -->
 
-  <text
-    x="425"
-    y="55"
-    text-anchor="middle"
+  <g
     font-family="Fira Code, Consolas, monospace"
     font-size="22"
     font-weight="600"
     letter-spacing="1"
-    fill="url(#rgb)"
-    opacity="0.45"
+    text-anchor="middle"
+    fill="url(#rgbGradient)"
     filter="url(#strongGlow)">
 
-    CSE (IoT &amp; CSBT) Student
+    <text
+      x="425"
+      y="56">
 
-  </text>
+      Initializing Shivanand...
+
+    </text>
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.10;0.85;1"
+      dur="21s"
+      begin="0s"
+      repeatCount="indefinite"/>
+
+  </g>
 
 
-  <!-- ================================================= -->
-  <!--                   MAIN TEXT                       -->
-  <!-- ================================================= -->
+  <!-- ============================================== -->
+  <!--              CSE STUDENT                       -->
+  <!-- ============================================== -->
 
-  <text
-    x="425"
-    y="55"
-    text-anchor="middle"
+  <g
     font-family="Fira Code, Consolas, monospace"
     font-size="22"
     font-weight="600"
     letter-spacing="1"
-    fill="url(#rgb)"
-    filter="url(#neon)">
+    text-anchor="middle"
+    fill="url(#rgbGradient)"
+    filter="url(#strongGlow)">
 
-    CSE (IoT &amp; CSBT) Student
+    <text
+      x="425"
+      y="56">
 
-  </text>
+      CSE (IoT &amp; CSBT) Student
+
+    </text>
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.10;0.85;1"
+      dur="21s"
+      begin="3s"
+      repeatCount="indefinite"/>
+
+  </g>
 
 
-  <!-- ================================================= -->
-  <!--                  MOVING SHINE                     -->
-  <!-- ================================================= -->
+  <!-- ============================================== -->
+  <!--                 ARTIFICIAL INTELLIGENCE        -->
+  <!-- ============================================== -->
+
+  <g
+    font-family="Fira Code, Consolas, monospace"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="1"
+    text-anchor="middle"
+    fill="url(#rgbGradient)"
+    filter="url(#strongGlow)">
+
+    <text
+      x="425"
+      y="56">
+
+      Exploring Artificial Intelligence
+
+    </text>
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.10;0.85;1"
+      dur="21s"
+      begin="6s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+
+  <!-- ============================================== -->
+  <!--                 CYBERSECURITY                  -->
+  <!-- ============================================== -->
+
+  <g
+    font-family="Fira Code, Consolas, monospace"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="1"
+    text-anchor="middle"
+    fill="url(#rgbGradient)"
+    filter="url(#strongGlow)">
+
+    <text
+      x="425"
+      y="56">
+
+      Studying Cybersecurity
+
+    </text>
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.10;0.85;1"
+      dur="21s"
+      begin="9s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+
+  <!-- ============================================== -->
+  <!--                     IOT                        -->
+  <!-- ============================================== -->
+
+  <g
+    font-family="Fira Code, Consolas, monospace"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="1"
+    text-anchor="middle"
+    fill="url(#rgbGradient)"
+    filter="url(#strongGlow)">
+
+    <text
+      x="425"
+      y="56">
+
+      Building with IoT
+
+    </text>
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.10;0.85;1"
+      dur="21s"
+      begin="12s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+
+  <!-- ============================================== -->
+  <!--                  BLOCKCHAIN                    -->
+  <!-- ============================================== -->
+
+  <g
+    font-family="Fira Code, Consolas, monospace"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="1"
+    text-anchor="middle"
+    fill="url(#rgbGradient)"
+    filter="url(#strongGlow)">
+
+    <text
+      x="425"
+      y="56">
+
+      Exploring Blockchain
+
+    </text>
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.10;0.85;1"
+      dur="21s"
+      begin="15s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+
+  <!-- ============================================== -->
+  <!--                ALWAYS LEARNING                 -->
+  <!-- ============================================== -->
+
+  <g
+    font-family="Fira Code, Consolas, monospace"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="1"
+    text-anchor="middle"
+    fill="url(#rgbGradient)"
+    filter="url(#strongGlow)">
+
+    <text
+      x="425"
+      y="56">
+
+      System Status: Always Learning...
+
+    </text>
+
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.10;0.85;1"
+      dur="21s"
+      begin="18s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+
+  <!-- ============================================== -->
+  <!--                  MOVING SHINE                  -->
+  <!-- ============================================== -->
 
   <rect
-    x="-250"
-    y="15"
-    width="180"
-    height="50"
+    x="-200"
+    y="10"
+    width="140"
+    height="70"
     fill="url(#shine)"
-    opacity="0.25"
+    opacity="0.12"
     transform="skewX(-20)">
 
     <animate
       attributeName="x"
-      from="-250"
+      from="-200"
       to="900"
       dur="4s"
-      repeatCount="indefinite"
-    />
+      repeatCount="indefinite"/>
 
   </rect>
 
 
-  <!-- ================================================= -->
-  <!--                SMALL RGB DOTS                     -->
-  <!-- ================================================= -->
+  <!-- ============================================== -->
+  <!--                    RGB DOTS                    -->
+  <!-- ============================================== -->
 
   <circle
-    cx="180"
-    cy="55"
-    r="2"
+    cx="100"
+    cy="45"
+    r="2.5"
     fill="#00E5FF"
-    filter="url(#neon)">
+    filter="url(#softGlow)">
 
     <animate
       attributeName="opacity"
       values="0.2;1;0.2"
       dur="2s"
-      repeatCount="indefinite"
-    />
+      repeatCount="indefinite"/>
 
   </circle>
 
 
   <circle
-    cx="670"
-    cy="55"
-    r="2"
+    cx="750"
+    cy="45"
+    r="2.5"
     fill="#EC4899"
-    filter="url(#neon)">
+    filter="url(#softGlow)">
 
     <animate
       attributeName="opacity"
       values="1;0.2;1"
       dur="2.5s"
-      repeatCount="indefinite"
-    />
+      repeatCount="indefinite"/>
 
   </circle>
 

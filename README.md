@@ -12,16 +12,15 @@
   />
 </p>
 
-<!-- ========================================================= -->
-
-<!--                    ANIMATED INTRO                         -->
-
+<<!-- ========================================================= -->
+<!--                    RGB ANIMATED INTRO                    -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Initializing+Shivanand...;CSE+(IoT+%26+CSBT)+Student;Exploring+Artificial+Intelligence;Studying+Cybersecurity;Building+with+IoT;Exploring+Blockchain;System+Status%3A+Always+Learning..."
-    alt="Animated introduction"
+    src="https://scribesvg.vercel.app/api/render?lines=Initializing+Shivanand...&layout=card&font=Fira+Code&size=22&gradient=00E5FF,7C3AED,EC4899,FF1744,FFEA00,00FF88&background=020617&speed=90&deleteSpeed=45&pause=1800&textGlow=8&center=true&cursor=pipe&attribution=false"
+    width="900"
+    alt="Initializing Shivanand"
   />
 </p>
 

@@ -199,19 +199,22 @@
 
 <br>
 
+
 <!-- ========================================================= -->
-<!--                     CONTRIBUTION STREAK                   -->
+<!--                    CONTRIBUTION SNAKE                     -->
 <!-- ========================================================= -->
 
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=who-is-shivanand&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=AAAAAA"
-    width="650"
-    alt="GitHub Contribution Streak"
+    src="https://raw.githubusercontent.com/who-is-shivanand/who-is-shivanand/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
   />
 </p>
+
+<br>
 
 <!-- ========================================================= -->
 <!--                     PROJECT DOMAINS                       -->

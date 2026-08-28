@@ -52,18 +52,7 @@
   />
 </p>
 
-<p align="center">
-  <b>AI × Cybersecurity × IoT × Blockchain</b>
-</p>
 
-<p align="center">
-  <i>Curiosity drives the exploration. Code turns ideas into reality.</i>
-</p>
-
-<p align="center">
-  I enjoy exploring emerging technologies, solving technical challenges,<br>
-  and transforming ideas into practical digital solutions.
-</p>
 
 <br>
 
@@ -301,27 +290,7 @@ and blockchain technology.
 <!--                    CONTRIBUTION SNAKE                     -->
 <!-- ========================================================= -->
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/who-is-shivanand/who-is-shivanand/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/who-is-shivanand/who-is-shivanand/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/who-is-shivanand/who-is-shivanand/output/github-contribution-grid-snake.svg"
-      width="95%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
 
 <br>
 

@@ -36,25 +36,27 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                           ABOUT                           -->
+<!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
 
-<h1 align="center">I'm Shivanand 👋</h1>
+<pre>
+<img align="right" src="./shivanand_github_profile.jpg" width="150px" alt="Shivanand">
+My Profile
+-------------------------------
+Name:        Shivanand
+Username:    who-is-shivanand
+Role:        CSE (IoT & CSBT) Student 
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/CSE%20(IoT%20%26%20CSBT)-Student-0EA5E9?style=for-the-badge"
-    alt="CSE IoT CSBT Student"
-  />
-  <img
-    src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-22C55E?style=for-the-badge"
-    alt="Learning and Building"
-  />
-</p>
+Languages:   C • C++ • Python
+             Java • JavaScript
 
+Focus:       Artificial Intelligence
+             Cybersecurity
+             Internet of Things
+             Blockchain
 
-
-<br>
+<div align="right"><b>GitHub: @who-is-shivanand</b></div>
+</pre>
 
 <!-- ========================================================= -->
 <!--                    TECHNOLOGIES & TOOLS                   -->

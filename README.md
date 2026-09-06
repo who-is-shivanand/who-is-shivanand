@@ -35,17 +35,30 @@
 
 <br>
 
-<!-- ========================================================= -->
+<<!-- ========================================================= -->
 <!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
 
+<div align="center">
+
+<img src="./shivanand_github_profile.jpg"
+     width="150px"
+     alt="Shivanand">
+
+<br>
+
+<b>GitHub ID: @who-is-shivanand</b>
+
+</div>
+
+<br>
+
 <pre>
-<img align="right" src="./shivanand_github_profile.jpg" width="150px" alt="Shivanand">
 My Profile
 -------------------------------
 Name:        Shivanand
 Username:    who-is-shivanand
-Role:        CSE (IoT & CSBT) Student 
+Role:        CSE (IoT & CSBT) Student
 
 Languages:   C • C++ • Python
              Java • JavaScript
@@ -54,9 +67,9 @@ Focus:       Artificial Intelligence
              Cybersecurity
              Internet of Things
              Blockchain
-
-<div align="right"><b>GitHub: @who-is-shivanand</b></div>
 </pre>
+
+<br>
 
 <!-- ========================================================= -->
 <!--                    TECHNOLOGIES & TOOLS                   -->

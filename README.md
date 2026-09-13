@@ -43,7 +43,7 @@
 <h2 align="center">  About me  </h2>
 
 ```sh
-shivanand@github: ~/who-is-shivanand 𛀀こそ
+shivanand@github: ~/who-is-shivanand ようこそ、私のGitHubへ！
 ```
 
 <img align="right" src="./shivanand_github_profile.jpg" width="130px"/>

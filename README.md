@@ -35,7 +35,7 @@
 
 <br>
 
-<<!-- ========================================================= -->
+<!-- ========================================================= -->
 <!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
 <br>
@@ -43,7 +43,7 @@
 <h2 align="center">  About me  </h2>
 
 ```sh
-shivanand@github: ~/who-is-shivanand (main⚡)$ profile
+shivanand@github: ~/who-is-shivanand 𛀀こそ
 ```
 
 <img align="right" src="./shivanand_github_profile.jpg" width="130px"/>

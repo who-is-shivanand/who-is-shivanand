@@ -111,51 +111,6 @@ Focus:    Artificial Intelligence
 <br>
 
 <!-- ========================================================= -->
-<!--                    CURRENTLY EXPLORING                    -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔭 CURRENTLY EXPLORING</h2>
-
-<p align="center">
-  <code>Intelligent Systems</code>
-  &nbsp;•&nbsp;
-  <code>Network Security</code>
-  &nbsp;•&nbsp;
-  <code>IoT Architecture</code>
-  &nbsp;•&nbsp;
-  <code>Blockchain Technology</code>
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                       LEARNING LOOP                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">🧠 LEARNING LOOP</h2>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/01%20LEARN-0F172A?style=for-the-badge&logo=bookstack&logoColor=38BDF8"
-    alt="Learn"
-  />
-  <img
-    src="https://img.shields.io/badge/02%20EXPERIMENT-0F172A?style=for-the-badge&logo=flask&logoColor=22C55E"
-    alt="Experiment"
-  />
-  <img
-    src="https://img.shields.io/badge/03%20BUILD-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="Build"
-  />
-  <img
-    src="https://img.shields.io/badge/04%20IMPROVE-0F172A?style=for-the-badge&logo=rocket&logoColor=F59E0B"
-    alt="Improve"
-  />
-</p>
-
-<br>
-
-<!-- ========================================================= -->
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
 
@@ -173,9 +128,7 @@ Focus:    Artificial Intelligence
     />
   </a>
 </p>
-
 <br>
-
 <p align="center">
   <img
     src="https://img.shields.io/github/followers/who-is-shivanand?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS"

@@ -38,38 +38,35 @@
 <<!-- ========================================================= -->
 <!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
-
-<div align="center">
-
-<img src="./shivanand_github_profile.jpg"
-     width="150px"
-     alt="Shivanand">
-
 <br>
 
-<b>GitHub ID: @who-is-shivanand</b>
+<h2 align="center">  About me  </h2>
 
-</div>
+```sh
+shivanand@github: ~/who-is-shivanand (main⚡)$ profile
+```
 
-<br>
+<img align="right" src="./shivanand_github_profile.jpg" width="130px"/>
 
-<pre>
+```csharp
 My Profile
 -------------------------------
-Name:        Shivanand
-Username:    who-is-shivanand
-Role:        CSE (IoT & CSBT) Student
-
-Languages:   C • C++ • Python
-             Java • JavaScript
-
-Focus:       Artificial Intelligence
-             Cybersecurity
-             Internet of Things
-             Blockchain
-</pre>
+Name:     Shivanand
+Username: who-is-shivanand
+Role:     CSE (IoT & CSBT) Student
+Languages:C, C++, Python
+          Java & JavaScript
+Focus:    Artificial Intelligence
+          Cybersecurity
+          Internet of Things
+          Blockchain
+```
 
 <br>
+<br>
+<br>
+
+<div>
 
 <!-- ========================================================= -->
 <!--                    TECHNOLOGIES & TOOLS                   -->

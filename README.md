@@ -76,7 +76,7 @@ Focus:    Artificial Intelligence
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,java,js,git,github,linux,arduino,raspberrypi,mysql,androidstudio&perline=6"
+    src="https://skillicons.dev/icons?i=c,,python,java,js,git,github,linux,arduino,raspberrypi,mysql,androidstudio&perline=6"
     alt="Technologies and Tools"
   />
 </p>
